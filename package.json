@@ -1,0 +1,14 @@
+{
+  "name": "great-circle-cursor",
+  "version": "1.0.0",
+  "description": "calculate the coordinates from a point along a great circle course heading for a distance in meters",
+  "devDependencies": {
+    "geolerp": "^1.0.0",
+    "haversine-distance": "^1.2.1",
+    "tape": "^5.5.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "license": "bsd"
+}
